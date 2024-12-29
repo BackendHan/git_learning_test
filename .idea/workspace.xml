@@ -77,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735425531411</updated>
-      <workItem from="1735425533153" duration="2270000" />
+      <workItem from="1735425533153" duration="3871000" />
     </task>
     <task id="LOCAL-00001" summary="test file">
       <option name="closed" value="true" />
@@ -92,6 +92,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test file" />
